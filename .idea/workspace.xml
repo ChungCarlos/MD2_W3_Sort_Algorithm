@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2473777d-7f4c-4876-8d45-d8716190e3bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bubblesort/BubbleSortByStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectionsort/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bubblesort/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BubbleSortByStep">
+  <component name="RunManager" selected="Application.SelectionSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bubblesort.BubbleSort" />
       <module name="MD2_W3_Pratice_BubbleSort" />
@@ -69,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selectionsort.SelectionSort" />
+      <module name="MD2_W3_Pratice_BubbleSort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selectionsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSortByStep" />
         <item itemvalue="Application.BubbleSort" />
       </list>
@@ -85,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681099616642</updated>
       <workItem from="1681099618122" duration="3844000" />
-      <workItem from="1681108296708" duration="1738000" />
+      <workItem from="1681108296708" duration="4172000" />
     </task>
     <servers />
   </component>
